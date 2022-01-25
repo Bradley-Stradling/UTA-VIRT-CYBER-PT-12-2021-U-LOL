@@ -9,7 +9,7 @@ Save and submit the completed file for your homework submission.
 
 1. Permissions on `/etc/shadow` should allow only `root` read and write access.
 
-    - Command to inspect permissions:
+    - Command to inspect permissions: this is an edit on my fork.
 
     - Command to set permissions (if needed):
 
